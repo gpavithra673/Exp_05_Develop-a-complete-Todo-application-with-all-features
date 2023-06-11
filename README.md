@@ -194,9 +194,9 @@ export default App;
 }
 ```
  ## OUTPUT:
- ![image](https://github.com/Aashima02/To-Do-Application/assets/93427086/69657e6a-d3e4-448b-b303-a1735fa526e4)
+![image](https://github.com/gpavithra673/Exp_05_Develop-a-complete-Todo-application-with-all-features/assets/93427264/d1dd9e26-5311-418a-b409-e2cd00f2eb56)
 
-![image](https://github.com/Aashima02/To-Do-Application/assets/93427086/9d537f67-c97e-4a6c-a06f-67958ed1e9da)
+![image](https://github.com/gpavithra673/Exp_05_Develop-a-complete-Todo-application-with-all-features/assets/93427264/9e23d3e9-2c80-4e77-8757-8d464a6db3a6)
 
  
  ## RESULT:
